@@ -1,0 +1,15 @@
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.BL.Models\obj\Debug\net5.0\Animals.BL.Models.csproj.AssemblyReference.cache
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.BL.Models\obj\Debug\net5.0\Animals.BL.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.BL.Models\obj\Debug\net5.0\Animals.BL.Models.AssemblyInfoInputs.cache
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.BL.Models\obj\Debug\net5.0\Animals.BL.Models.AssemblyInfo.cs
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.BL.Models\obj\Debug\net5.0\Animals.BL.Models.csproj.CoreCompileInputs.cache
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.BL.Models\bin\Debug\net5.0\Animals.BL.Models.deps.json
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.BL.Models\bin\Debug\net5.0\Animals.BL.Models.dll
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.BL.Models\bin\Debug\net5.0\ref\Animals.BL.Models.dll
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.BL.Models\bin\Debug\net5.0\Animals.BL.Models.pdb
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.BL.Models\bin\Debug\net5.0\Animals.Interfaces.dll
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.BL.Models\bin\Debug\net5.0\Animals.Interfaces.pdb
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.BL.Models\obj\Debug\net5.0\Animals.BL.Models.csproj.CopyComplete
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.BL.Models\obj\Debug\net5.0\Animals.BL.Models.dll
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.BL.Models\obj\Debug\net5.0\ref\Animals.BL.Models.dll
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.BL.Models\obj\Debug\net5.0\Animals.BL.Models.pdb

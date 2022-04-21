@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Animals.BL.Models\Animals.BL.Models.csproj" />
+    <ProjectReference Include="..\Animals.BL\Animals.BL.csproj" />
+    <ProjectReference Include="..\Animals.Interfaces\Animals.Interfaces.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="frmAnimals.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

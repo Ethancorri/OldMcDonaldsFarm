@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cat>
+    <Color>Black</Color>
+    <Cost>25</Cost>
+    <Animaltype>Cat</Animaltype>
+    <Name>Tabby</Name>
+  </Cat>
+  <Cat>
+    <Color>White</Color>
+    <Cost>125</Cost>
+    <Animaltype>Tiger</Animaltype>
+    <Name>Fluffy</Name>
+  </Cat>
+</ArrayOfCat>

@@ -1,0 +1,158 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Animals.BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Animals.BL.Models": "1.0.0",
+          "Animals.PL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Animals.BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Animals.BL.dll": {}
+        }
+      },
+      "Animals.BL.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Animals.Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Animals.BL.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Animals.BL.Models.dll": {}
+        }
+      },
+      "Animals.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Animals.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Animals.Interfaces.dll": {}
+        }
+      },
+      "Animals.PL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Animals.PL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Animals.PL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Animals.BL/1.0.0": {
+      "type": "project",
+      "path": "../Animals.BL/Animals.BL.csproj",
+      "msbuildProject": "../Animals.BL/Animals.BL.csproj"
+    },
+    "Animals.BL.Models/1.0.0": {
+      "type": "project",
+      "path": "../Animals.BL.Models/Animals.BL.Models.csproj",
+      "msbuildProject": "../Animals.BL.Models/Animals.BL.Models.csproj"
+    },
+    "Animals.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../Animals.Interfaces/Animals.Interfaces.csproj",
+      "msbuildProject": "../Animals.Interfaces/Animals.Interfaces.csproj"
+    },
+    "Animals.PL/1.0.0": {
+      "type": "project",
+      "path": "../Animals.PL/Animals.PL.csproj",
+      "msbuildProject": "../Animals.PL/Animals.PL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Animals.BL >= 1.0.0",
+      "Animals.BL.Models >= 1.0.0",
+      "Animals.Interfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\700216598\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\700216598\\Desktop\\OldMcDonaldFarm\\Animals.UI\\Animals.UI.csproj",
+      "projectName": "Animals.UI",
+      "projectPath": "C:\\Users\\700216598\\Desktop\\OldMcDonaldFarm\\Animals.UI\\Animals.UI.csproj",
+      "packagesPath": "C:\\Users\\700216598\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\700216598\\Desktop\\OldMcDonaldFarm\\Animals.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\700216598\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\700216598\\Desktop\\OldMcDonaldFarm\\Animals.BL.Models\\Animals.BL.Models.csproj": {
+              "projectPath": "C:\\Users\\700216598\\Desktop\\OldMcDonaldFarm\\Animals.BL.Models\\Animals.BL.Models.csproj"
+            },
+            "C:\\Users\\700216598\\Desktop\\OldMcDonaldFarm\\Animals.BL\\Animals.BL.csproj": {
+              "projectPath": "C:\\Users\\700216598\\Desktop\\OldMcDonaldFarm\\Animals.BL\\Animals.BL.csproj"
+            },
+            "C:\\Users\\700216598\\Desktop\\OldMcDonaldFarm\\Animals.Interfaces\\Animals.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\700216598\\Desktop\\OldMcDonaldFarm\\Animals.Interfaces\\Animals.Interfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

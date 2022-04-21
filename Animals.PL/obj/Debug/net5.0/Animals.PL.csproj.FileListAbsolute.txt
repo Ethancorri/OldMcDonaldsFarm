@@ -1,0 +1,12 @@
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.PL\bin\Debug\net5.0\Animals.PL.deps.json
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.PL\bin\Debug\net5.0\Animals.PL.dll
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.PL\bin\Debug\net5.0\ref\Animals.PL.dll
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.PL\bin\Debug\net5.0\Animals.PL.pdb
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.PL\obj\Debug\net5.0\Animals.PL.csproj.AssemblyReference.cache
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.PL\obj\Debug\net5.0\Animals.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.PL\obj\Debug\net5.0\Animals.PL.AssemblyInfoInputs.cache
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.PL\obj\Debug\net5.0\Animals.PL.AssemblyInfo.cs
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.PL\obj\Debug\net5.0\Animals.PL.csproj.CoreCompileInputs.cache
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.PL\obj\Debug\net5.0\Animals.PL.dll
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.PL\obj\Debug\net5.0\ref\Animals.PL.dll
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.PL\obj\Debug\net5.0\Animals.PL.pdb

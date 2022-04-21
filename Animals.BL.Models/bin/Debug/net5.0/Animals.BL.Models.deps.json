@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Animals.BL.Models/1.0.0": {
+        "dependencies": {
+          "Animals.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Animals.BL.Models.dll": {}
+        }
+      },
+      "Animals.Interfaces/1.0.0": {
+        "runtime": {
+          "Animals.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Animals.BL.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Animals.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

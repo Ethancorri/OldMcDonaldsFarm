@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Animals.BL.Models\Animals.BL.Models.csproj" />
+    <ProjectReference Include="..\Animals.PL\Animals.PL.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.Interfaces\bin\Debug\net5.0\Animals.Interfaces.deps.json
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.Interfaces\bin\Debug\net5.0\Animals.Interfaces.dll
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.Interfaces\bin\Debug\net5.0\ref\Animals.Interfaces.dll
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.Interfaces\bin\Debug\net5.0\Animals.Interfaces.pdb
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.Interfaces\obj\Debug\net5.0\Animals.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.Interfaces\obj\Debug\net5.0\Animals.Interfaces.AssemblyInfoInputs.cache
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.Interfaces\obj\Debug\net5.0\Animals.Interfaces.AssemblyInfo.cs
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.Interfaces\obj\Debug\net5.0\Animals.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.Interfaces\obj\Debug\net5.0\Animals.Interfaces.dll
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.Interfaces\obj\Debug\net5.0\ref\Animals.Interfaces.dll
+C:\Users\700216598\Desktop\OldMcDonaldFarm\Animals.Interfaces\obj\Debug\net5.0\Animals.Interfaces.pdb
